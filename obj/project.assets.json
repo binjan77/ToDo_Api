@@ -729,9 +729,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ToDo_Api\\ToDo-API.csproj",
-      "projectName": "ToDo-API",
-      "projectPath": "C:\\Users\\User\\source\\repos\\ToDo_Api\\ToDo-API.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ToDo_Api\\ToDo_API.csproj",
+      "projectName": "ToDo_API",
+      "projectPath": "C:\\Users\\User\\source\\repos\\ToDo_Api\\ToDo_API.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\source\\repos\\ToDo_Api\\obj\\",
       "projectStyle": "PackageReference",
